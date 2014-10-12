@@ -59,10 +59,6 @@ input { color:#999;font-weight:bold;font-size:20px;margin:5px; }
 Nombres separados por espacios, nivel b&aacute;sico, por ejemplo: <em>vaca serpiente</em></p>
 
 
-<p style="font-size:19px;margin-top:60px;">
-Created by <a href="http://gonzo.teoriza.com/" title="GONZO"><b>GONZO</b></a> (Javier Gonz&aacute;lez) &middot; 
-Powered by <a href="http://www.teoriza.com/" title="Blogs Teoriza"><img src="http://img.teoriza.com/blogs-teoriza-logo-200.gif" width="200" height="40" alt="Blogs Teoriza" border="0" style="margin:0 0 -12px 0;" /></a> &middot; 
-<a href="http://gonzo.teoriza.com/animal-captcha" title="Animal Captcha"><b>Animal Captcha 1.6.0</b></a></p>
 
 </center>
 </form>
