@@ -103,12 +103,12 @@ Contributors:
 
 4. How much security?
 
-	It is very secure in its default configuration. Security experts have tried brute 
+	~~It is very secure in its default configuration. Security experts have tried brute 
 	force and identification of patterns without success. Still, as with any captcha, 
 	it is anticipated that with enough effort can be broken. If you require a near 100% 
 	security, quiet sleep, we recommend creating a directory of their own animals, which 
-	is not public.
-
+	is not public.~~
+	Now, none.
 
 == Installation ==
 
